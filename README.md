@@ -23,7 +23,7 @@ Each journal and coloring concept is created to help people slow down, reflect, 
 
 ## Project Status
 
-JournalColor is currently in development.
+JournalColor is currently in production.
 New journal concepts and coloring book collections are being designed and prepared for future release.
 
 ## Official Links
